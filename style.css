@@ -1,6 +1,20 @@
+
+
 .jumbotron {
   height: 856px;
   background-image: url("./images/main-image4.jpg");
   background-size: cover;
   color: #ffffff;
 }
+
+.main {
+  height: 856px;
+  background-image: url("./images/frb_background_umb.png");
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-color: linear-gradient(hsla(0, 0%, 99%, 0.3), hsla(45, 74%, 62%, 0.4));
+  margin-top: 5%;
+}
+
+
