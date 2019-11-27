@@ -7,13 +7,18 @@
   color: #ffffff;
 }
 
+
 .main {
+  background-image: linear-gradient(hsla(0, 0%, 99%, 0.3), hsla(150, 72%, 37%, 0.3));
+}
+
+
+.main-back {
   height: 856px;
   background-image: url("./images/frb_background_umb.png");
   background-position: center;
   background-size: contain;
   background-repeat: no-repeat;
-  background-color: linear-gradient(hsla(0, 0%, 99%, 0.3), hsla(45, 74%, 62%, 0.4));
   margin-top: 5%;
 }
 
